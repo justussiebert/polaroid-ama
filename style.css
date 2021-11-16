@@ -1,3 +1,14 @@
 body {
   background-color: beige;
+  margin: 0;
+}
+.polaroid {
+  width: 800px;
+  height: 600px;
+  margin: 0 auto;
+  background-image: url(kreuzkroeten-geisterbusch-wahner-heide-justus-siebert-2020-07-03.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-top: 10%;
+  border: 10px solid green;
 }
